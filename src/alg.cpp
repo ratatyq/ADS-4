@@ -1,3 +1,4 @@
+// Copyright 2021 NNTU-CS
 int countPairs1(int* arr, int len, int value) {
   int pairs = 0;
   for (int first = 0; first < len; first++) {
